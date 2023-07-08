@@ -3,7 +3,6 @@ This project is a web application that utilizes the power of vanilla JavaScript 
 
 In addition to the search feature, the app also includes the ability for users to view details of the selected recipe. This includes a more in-depth look at the recipe's ingredients and instructions, as well as nutritional information. Users can also mark their favorite recipes for easy access in the future.
 
-Overall, this project demonstrates your skills in working with APIs, JavaScript, and web development in general. The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
 
 
 ## Key Features
@@ -24,11 +23,6 @@ These instructions will get you a copy of the project up and running on your loc
 - An internet connection
 - A code editor (e.g. VS Code, Atom)
 
-### Installing
-
-1. Clone or download the repository to your local machine
-2. Open the project in your code editor
-3. Open the index.html file in your web browser to run the app
 
 ## Built With
 
@@ -38,16 +32,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at https://rajnish203.github.io/MealApp/
 
 ## Authors
 
-- [@imsahadeb](https://github.com/imsahadeb)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The Meal DB API (https://www.themealdb.com
+- [@rajnish203]
